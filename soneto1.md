@@ -19,6 +19,6 @@ As fontes da esperança… E não cedeste!<br>
 
 Antes, pobre, despida e trespassada,<br>
 Soubeste dar à vida, em que morreste,<br>
-Tudo, — à vida, que nunca te deu nada!<br>
+Tudo, — à vida, que nunca te deu nada!<br></span>
 
-Manuel Bandeira</span>
+<span style = "font-size: 15em; text-align: center;">Manuel Bandeira</span>
